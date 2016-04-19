@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<member>
+	<mlist>
+		<no>1</no>
+		<name>정도전</name>
+		<gender>남자</gender>
+		<addr>서울</addr>
+		<tel>02-1234-5678</tel>
+	</mlist>
+	<mlist>
+		<no>2</no>
+		<name>강씨</name>
+		<gender>여자</gender>
+		<addr>서울</addr>
+		<tel>02-1234-5678</tel>
+	</mlist>
+	<mlist>
+		<no>3</no>
+		<name>이성계</name>
+		<gender>남자</gender>
+		<addr>개성</addr>
+		<tel>7777-5678</tel>
+	</mlist>		
+</member>
